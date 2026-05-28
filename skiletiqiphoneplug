@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SkiletiQ iPhone Plug</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <h1>SkiletiQ</h1>
+    <span>iPhone Plug</span>
+  </div>
+
+  <nav>
+    <a href="#">Home</a>
+    <a href="#">Shop</a>
+    <a href="#">About</a>
+    <a href="#">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <div class="hero-text">
+    <h2>BIG 90 DAY CLEARANCE</h2>
+    <p>Premium iPhones • Best Prices • Limited Time</p>
+
+    <a href="https://wa.me/27710465136" class="btn">
+      Order On WhatsApp
+    </a>
+  </div>
+</section>
+
+<section class="products">
+
+  <div class="card">
+    <h3>iPhone X</h3>
+    <p>R3899</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone XR</h3>
+    <p>R3999</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 11</h3>
+    <p>R4999</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 11 Pro</h3>
+    <p>R6099</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 11 Pro Max</h3>
+    <p>R7499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 12</h3>
+    <p>R5999</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 12 Pro</h3>
+    <p>R8499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 13</h3>
+    <p>R8499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 13 Pro</h3>
+    <p>R10499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 13 Pro Max</h3>
+    <p>R11499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 14</h3>
+    <p>R9999</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 14 Pro</h3>
+    <p>R12899</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 14 Pro Max</h3>
+    <p>R15499</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 15 Pro</h3>
+    <p>R16899</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 15 Pro Max</h3>
+    <p>R18999</p>
+  </div>
+
+  <div class="card">
+    <h3>iPhone 16</h3>
+    <p>R16999</p>
+  </div>
+
+</section>
+
+<section class="features">
+  <div>✅ 6 Months Warranty</div>
+  <div>🚚 Nationwide Delivery</div>
+  <div>🎁 Free Gift Included</div>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+
+  <p>📞 071 046 5136</p>
+  <p>📧 ziphomagwaza17@gmail.com</p>
+
+  <a href="https://wa.me/27710465136" class="btn">
+    Chat On WhatsApp
+  </a>
+</section>
+
+<footer>
+  <p>© 2026 SkiletiQ iPhone Plug</p>
+</footer>
+
+</body>
+</html>
